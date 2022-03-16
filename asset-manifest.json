@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/interactive-pricing-app/static/css/main.c321b812.css",
+    "main.css": "/interactive-pricing-app/static/css/main.ad9c6022.css",
     "main.js": "/interactive-pricing-app/static/js/main.2c093e87.js",
     "static/js/787.0dd29357.chunk.js": "/interactive-pricing-app/static/js/787.0dd29357.chunk.js",
     "index.html": "/interactive-pricing-app/index.html",
@@ -8,12 +8,12 @@
     "static/media/pattern-circles.svg": "/interactive-pricing-app/static/media/pattern-circles.9f6ed14bb3b0084b05a9.svg",
     "static/media/bg-pattern.svg": "/interactive-pricing-app/static/media/bg-pattern.76d3fa7ddce078ad96b5.svg",
     "static/media/icon-check.svg": "/interactive-pricing-app/static/media/icon-check.83c38a48815855ecc2d7e233514a2a7d.svg",
-    "main.c321b812.css.map": "/interactive-pricing-app/static/css/main.c321b812.css.map",
+    "main.ad9c6022.css.map": "/interactive-pricing-app/static/css/main.ad9c6022.css.map",
     "main.2c093e87.js.map": "/interactive-pricing-app/static/js/main.2c093e87.js.map",
     "787.0dd29357.chunk.js.map": "/interactive-pricing-app/static/js/787.0dd29357.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c321b812.css",
+    "static/css/main.ad9c6022.css",
     "static/js/main.2c093e87.js"
   ]
 }
